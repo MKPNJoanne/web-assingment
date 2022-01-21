@@ -55,6 +55,7 @@ i:hover{
     color: #f65aa7;
     cursor: pointer;
 }
+//nav bar specifications
 
 .nav-bg-color{
 
@@ -95,7 +96,7 @@ margin-bottom: 30px;
     color: #f65aa7!important;
     margin: 1px auto
 }
-
+//media navigation list
 @media (max-width: 1200px){
     .nav-list .menu, .menu-last{
         text-align: center;
@@ -136,6 +137,7 @@ margin-bottom: 30px;
 .text-carousel{
     color: white;
 }
+//background cover image 
 .first-slider {
     min-height: 800px;
     
